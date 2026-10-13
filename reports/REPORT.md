@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Ngụy Quang Hùng (MSSV: 2A202602998)  **Commit:** `a3f9ce7`  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Ngụy Quang Hùng (MSSV: 2A202602998)  **Commit:** `b3ed9a4`  **Điểm tự động (`make grade`):** 84 / 88
 
 > Mọi nhận định trong báo cáo đều được trích xuất trực tiếp từ các file số liệu thực nghiệm: `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json` và `reports/gameday/naive_G2_overload_storm_timeseries.csv`.
 
